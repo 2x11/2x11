@@ -1,5 +1,5 @@
 <h2> Hi, I'm Daiana! <img src="https://i.imgur.com/zXfBj2I.png" width="50"></h2>
-<img align='right' src="https://i.imgur.com/Y0iHLd0.gif" width="230">
+<img align='right' src="https://i.imgur.com/Y0iHLd0.gif" width="250">
 <p><em>FullStack web programming student <a href="http://www.digitalhouse.com">Digital House</a><img
             src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </em></p>
@@ -25,7 +25,7 @@ anotherThings: {
 
 ```
 
-<img src="https://i.imgur.com/neRayA9.gif" width="100"> <em><b>I love connecting with different people</b> so if you want
+<img src="https://i.imgur.com/neRayA9.gif" width="150"> <em><b>I love connecting with different people</b> so if you want
     to say <b>Hi, Hola or こんにちは I'll be happy to meet you more!</b> ^3^~♥</em>
 
 ---
