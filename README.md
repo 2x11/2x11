@@ -10,7 +10,7 @@ EpeeLunaire](https://img.shields.io/twitter/follow/EpeeLunaire?style=social)](ht
 [![GitHub 2x11](https://img.shields.io/github/followers/2x11?label=follow&style=social)](https://github.com/2x11)
 
 
-### <img src="https://i.imgur.com/neRayA9.gif" width="50"> A little more about me...
+### <img src="https://i.imgur.com/4iD5Y2b.gif" width="50"> A little more about me...
 
 ```javascript
 const Dai = {
@@ -25,7 +25,7 @@ anotherThings: {
 
 ```
 
-<img src="https://i.imgur.com/4iD5Y2b.gif" width="60"> <em><b>I love connecting with different people</b> so if you want
+<img src="https://i.imgur.com/neRayA9.gif" width="80"> <em><b>I love connecting with different people</b> so if you want
     to say <b>Hi, Hola or こんにちは I'll be happy to meet you more!</b> ^3^~♥</em>
 
 ---
