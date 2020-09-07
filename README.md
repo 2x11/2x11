@@ -20,7 +20,7 @@ tools: [Node],
 anotherThings: {
                   chorus: "Power Up",
                   musicStudent: "Conservatorio Julian Aguirre",
-                  sheet music arranger;
+                  work: "sheet music arranger";
 },
 
 ```
