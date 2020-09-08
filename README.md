@@ -14,7 +14,7 @@ EpeeLunaire](https://img.shields.io/twitter/follow/EpeeLunaire?style=social)](ht
 ```javascript
 const Dai = {
 pronouns: "she" | "her",
-code: [Javascript, HTML, CSS, & learning],
+code: [Javascript, HTML, CSS, Bootstrap & learning],
 tools: [Node, & i'm still in the learning process],
 anotherThings: {
                   chorus: "Power Up",
