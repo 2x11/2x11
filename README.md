@@ -22,6 +22,11 @@ anotherThings: {
                   work: "sheet music arranger";
 },
 
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+
 ```
 
 <img src="https://i.imgur.com/neRayA9.gif" width="150"> 
