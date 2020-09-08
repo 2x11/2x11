@@ -1,6 +1,6 @@
 <h2> Hi, I'm Daiana! <img src="https://i.imgur.com/zXfBj2I.png" width="50"></h2>
 <img align='right' src="https://i.imgur.com/Y0iHLd0.gif" width="280">
-<p><em>FullStack web programming student <a href="http://www.digitalhouse.com">Digital House</a><img
+<p><em>FullStack web developer in process at <a href="http://www.digitalhouse.com">Digital House</a><img
             src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </em></p>
 
