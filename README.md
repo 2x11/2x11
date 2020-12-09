@@ -29,7 +29,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ```
 
-<img src="https://i.imgur.com/neRayA9.gif" width="150"> 
+
 <em><b>I love connecting with different people</b> so if you want
     to say <b>Hi, Hola or こんにちは I'll be happy to meet you more!</b> ^3^~♥</em>
 
