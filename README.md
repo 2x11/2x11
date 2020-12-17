@@ -30,9 +30,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 
 
-<em><b>I love connecting with different people</b> so if you want
-    to say <b>Hi, Hola or こんにちは I'll be happy to meet you more!</b> ^3^~♥</em>
-
 ---
 
 
