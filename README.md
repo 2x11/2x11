@@ -15,11 +15,10 @@ EpeeLunaire](https://img.shields.io/twitter/follow/EpeeLunaire?style=social)](ht
 const Dai = {
 pronouns: "she" | "her",
 code: [Javascript, HTML, CSS & learning],
-tools: [Node, & i'm still in the learning process],
+tools: [Node, React, Styled-Components],
 anotherThings: {
                   chorus: "Power Up",
                   musicStudent: "Conservatorio Julian Aguirre",
-                  work: "sheet music arranger";
 },
 
 // Which came first: the chicken or the egg?
