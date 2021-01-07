@@ -17,7 +17,7 @@ pronouns: "she" | "her",
 code: [Javascript, HTML, CSS & learning],
 tools: [Node, React, Styled-Components],
 anotherThings: {
-                  chorus: "Power Up",
+                  singer: "chorus",
                   musicStudent: "Conservatorio Julian Aguirre",
 },
 
