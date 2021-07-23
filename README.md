@@ -1,4 +1,4 @@
-<h2> Hi, I'm Daiana! <img src="https://i.imgur.com/fypwiuS.png"width="50"></h2>
+<h2><img src="https://i.imgur.com/fypwiuS.png"width="50"> Hi, I'm Daiana! </h2>
 <img align='right' src="https://i.imgur.com/Y0iHLd0.gif" width="300">
 <p><em>Junior FullStack web developer <a href="http://www.digitalhouse.com">Digital House</a><img
             src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
