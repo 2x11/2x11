@@ -19,6 +19,10 @@ tools: [NodeJS, React, Bootstrap],
 anotherThings: {
                   singer: "chorus",
                   musicStudent: "Conservatorio Julian Aguirre",
+                  mother: "of 2 fat cats",
+                  like: "beer/coffe/anime and all that nerdy stuff"
+                  dislike: "sushi/watermelon"
+                  status: "in the wired...",
 },
 
 // Which came first: the chicken or the egg?
