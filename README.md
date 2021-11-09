@@ -20,7 +20,7 @@ anotherThings: {
                   singer: "chorus",
                   musicStudent: "Conservatorio Julian Aguirre",
                   mother: "of 2 fat cats",
-                  like: "beer/coffe/Gundam and more nerdy stuff",
+                  like: "beer/coffe/anime and more nerdy stuff",
                   dislike: "sushi/watermelon",
                   status: "in the wired...",
 },
