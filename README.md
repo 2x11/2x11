@@ -5,6 +5,7 @@
     </em></p>
 
 [![Twitter:
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/daianaabal/)
 EpeeLunaire](https://img.shields.io/twitter/follow/EpeeLunaire?style=social)](https://twitter.com/EpeeLunaire)
 [![GitHub 2x11](https://img.shields.io/github/followers/2x11?label=follow&style=social)](https://github.com/2x11)
 
