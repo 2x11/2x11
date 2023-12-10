@@ -4,8 +4,8 @@
             src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </em></p>
 
+[![Linkedin: daianaabal](https://img.shields.io/badge/-DaianaAbal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daianaabal/)](https://www.linkedin.com/in/daianaabal/)
 [![Twitter:
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/daianaabal/)
 EpeeLunaire](https://img.shields.io/twitter/follow/EpeeLunaire?style=social)](https://twitter.com/EpeeLunaire)
 [![GitHub 2x11](https://img.shields.io/github/followers/2x11?label=follow&style=social)](https://github.com/2x11)
 
@@ -15,8 +15,8 @@ EpeeLunaire](https://img.shields.io/twitter/follow/EpeeLunaire?style=social)](ht
 ```javascript
 const Dai = {
 pronouns: "she" | "her",
-code: [Javascript, HTML, CSS, Sass, MySql & learning],
-tools: [NodeJS, React, Bootstrap],
+code: [Javascript, HTML, CSS, Sass & learning],
+tools: [NodeJS, React, Mocha, MySql, Selenium WebDriver],
 anotherThings: {
                   singer: "chorus",
                   musicStudent: "Conservatorio Julian Aguirre",
