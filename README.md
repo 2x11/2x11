@@ -1,8 +1,8 @@
 <h2><img src="https://i.imgur.com/fypwiuS.png"width="50"> Hi, I'm Daiana! </h2>
 <img align='right' src="https://i.imgur.com/Y0iHLd0.gif" width="350">
-<p><em>Junior FullStack web developer <a href="http://www.digitalhouse.com">Digital House</a><img
-            src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    </em></p>
+<em> FullStack web developer <a href="http://www.digitalhouse.com">Digital House</a><img
+            src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
+<p><em>QA Testing Automation <a href="https://mindhubweb.com">MindHub</a></em></p>
 
 [![Linkedin: daianaabal](https://img.shields.io/badge/-DaianaAbal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daianaabal/)](https://www.linkedin.com/in/daianaabal/)
 [![Twitter:
