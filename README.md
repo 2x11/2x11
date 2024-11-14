@@ -16,7 +16,7 @@ EpeeLunaire](https://img.shields.io/twitter/follow/EpeeLunaire?style=social)](ht
 const Dai = {
 pronouns: "she" | "her",
 code: [Javascript, HTML, CSS, Sass & learning],
-tools: [NodeJS, React, Mocha, MySql, Selenium WebDriver],
+tools: [NodeJS, Java, MySql, Selenium WebDriver, leaaarning],
 anotherThings: {
                   singer: "chorus",
                   musicStudent: "Conservatorio Julian Aguirre",
